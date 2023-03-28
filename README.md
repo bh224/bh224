@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**bh224/bh224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![header](https://capsule-render.vercel.app/api?type=waving&color=D0E8FA&height=300&section=header&text=hello,%20home%20of%20bh224&fontSize=60)
+
+<div align="center">
+  <h4>🎈Hello, I am... </h4>
+  <p> 어제 보다 나아지려고 노력하는 주니어 백엔드 개발자 입니다</p>
+  <p> Better me...then yesterday!</p>
+  <p> 昨日より熱く</p>
+  <br/>
+  <h4>💃 Feel free to come HERE </h4>
+ <a href="https://kbh224.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Development%20Blog-black?style=flat&logo=blog&logoColor=000000"/> </a><a href="https://blog.naver.com/lm_stbr" target="_blank"><img src="https://img.shields.io/badge/Naver%20Blog-44B25C?style=flat&logo=blog&logoColor=44B25C"/></a>
+  <br/>
+  <br/>
+  <h4>📌 Tech Stack  </h4>
+  
+  
+![React](https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776A) 
+![React](https://img.shields.io/badge/Django-white?style=flat&logo=Django&logoColor=092E20) ![React](https://img.shields.io/badge/Django%20Rest%20Framework-white?style=flat&logo=djangorestframework&logoColor=092E20)
+![React](https://img.shields.io/badge/MySQL-white?style=flat&logo=Mysql&logoColor=4479A1) ![React](https://img.shields.io/badge/Docker-white?style=flat&logo=docker&logoColor=2496ED)
+![React](https://img.shields.io/badge/Javascript-white?style=flat&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-white?style=flat&logo=react&logoColor=61DAFB) 
+
+  
+  <br/>
+  <h4>📬 one0357@gmail.com  </h4>
+
+</div>
