@@ -6,7 +6,7 @@
 <div align="center">
   <h4>🎈Hello, I am... </h4>
   <p> 어제 보다 나아지려고 노력하는 주니어 백엔드 개발자 입니다</p>
-  <p> Better me...then yesterday!</p>
+  <p> Better me...than yesterday!</p>
   <p> 昨日より熱く</p>
   <br/>
   <h4>💃 Feel free to come HERE </h4>
