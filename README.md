@@ -5,12 +5,11 @@
 
 <div align="center">
   <h4>🎈Hello, I am... </h4>
-  <p> 어제 보다 나아지려고 노력하는 주니어 백엔드 개발자 입니다</p>
+  <p> 어제 보다 나아지려고 노력하고 있어요</p>
   <p> Better me...than yesterday!</p>
-  <p> 昨日より熱く</p>
   <br/>
   <h4>💃 Feel free to come HERE </h4>
- <a href="https://kbh224.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Development%20Blog-black?style=flat&logo=blog&logoColor=000000"/> </a><a href="https://blog.naver.com/lm_stbr" target="_blank"><img src="https://img.shields.io/badge/Naver%20Blog-44B25C?style=flat&logo=blog&logoColor=44B25C"/></a>
+ <a href="https://kbh224.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Development%20Blog-black?style=flat&logo=blog&logoColor=000000"/> </a>
   <br/>
   <br/>
   <h4>📌 Tech Stack  </h4>
