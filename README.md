@@ -5,10 +5,9 @@
 
 <div align="center">
   <h4>🎈Hello, I am... </h4>
-  <p> 어제 보다 나아지려고 노력하고 있어요</p>
-  <p> Better me...than yesterday!</p>
+  <p> Better than yesterday!</p>
   <br/>
-  <h4>💃 Feel free to come HERE </h4>
+  <h4>💃 come HERE more about me :) </h4>
  <a href="https://kbh224.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Development%20Blog-black?style=flat&logo=blog&logoColor=000000"/> </a>
   <br/>
   <br/>
