@@ -1,8 +1,10 @@
 
 
 <div align="center">
-  <h4>🎈Hello, I am... </h4>
-  <p> Better than yesterday!</p>
+  <h4>🎈Hello, I'm bohyun </h4>
+  <p> Former Backend Developer </p>
+  <p> Passionate about software development and service planning as a hobby. </p>
+  <p>Currently working as a freelance instructor, teaching AI and coding to students. </p>
   <br/>
   <h4>💃 come HERE more about me :) </h4>
  <a href="https://kbh224.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Development%20Blog-black?style=flat&logo=blog&logoColor=000000"/> </a>
@@ -19,5 +21,8 @@
   
   <br/>
   <h4>📬 one0357@gmail.com  </h4>
+  <br/>
+  <br/>
+  <p> better than yesterday...😌 </p>
 
 </div>
