@@ -1,8 +1,5 @@
 
 
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=D0E8FA&height=300&section=header&text=welcome,%20my%20Hub&fontSize=60)
-
 <div align="center">
   <h4>🎈Hello, I am... </h4>
   <p> Better than yesterday!</p>
